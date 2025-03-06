@@ -21,7 +21,7 @@ public class Main {
     {
         Playable myGuitar = new Guitar();
         Playable myPiano = new Piano();
-        myGuitar.play(); // Output: Playing the guitar!
-        myPiano.play();  // Output: Playing the piano!
+        myGuitar.play(); 
+        myPiano.play();  
     }
 }
